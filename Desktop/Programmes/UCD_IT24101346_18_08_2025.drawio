@@ -1,0 +1,140 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="28.1.0">
+  <diagram name="Page-1" id="D8xSHHFUU0X-tcsI1f0g">
+    <mxGraphModel dx="1722" dy="1521" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="siajLENxYBHH6s5eYtno-2" value="" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-224" y="25" width="564" height="915" as="geometry" />
+        </mxCell>
+        <mxCell id="siajLENxYBHH6s5eYtno-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="siajLENxYBHH6s5eYtno-3" target="siajLENxYBHH6s5eYtno-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="siajLENxYBHH6s5eYtno-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="siajLENxYBHH6s5eYtno-3" target="siajLENxYBHH6s5eYtno-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object label="Visitor" Visitor="" id="siajLENxYBHH6s5eYtno-3">
+          <mxCell style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+            <mxGeometry x="-280" y="35" width="30" height="60" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="siajLENxYBHH6s5eYtno-4" value="Browse public courses" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-169" y="40" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="siajLENxYBHH6s5eYtno-6" value="Search by Category, Rating, or Instructor" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-179" y="95" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="siajLENxYBHH6s5eYtno-7" value="EduFlex" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-224" y="-2" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="siajLENxYBHH6s5eYtno-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="siajLENxYBHH6s5eYtno-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-240" y="60" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="siajLENxYBHH6s5eYtno-8" value="View Demo Videos" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-179" y="150" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="siajLENxYBHH6s5eYtno-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="siajLENxYBHH6s5eYtno-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-230" y="60" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="siajLENxYBHH6s5eYtno-18" value="Create Student Account" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-180" y="210" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="siajLENxYBHH6s5eYtno-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="siajLENxYBHH6s5eYtno-19" target="siajLENxYBHH6s5eYtno-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="siajLENxYBHH6s5eYtno-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="siajLENxYBHH6s5eYtno-19" target="siajLENxYBHH6s5eYtno-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="siajLENxYBHH6s5eYtno-19" value="Student" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="35" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="siajLENxYBHH6s5eYtno-20" value="Enroll in Courses" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="35" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="siajLENxYBHH6s5eYtno-21" value="Access Purchased Courses" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="75" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="siajLENxYBHH6s5eYtno-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="siajLENxYBHH6s5eYtno-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="60" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="siajLENxYBHH6s5eYtno-22" value="Download Learning Materials" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="115" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="siajLENxYBHH6s5eYtno-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="siajLENxYBHH6s5eYtno-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="370" y="60" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="siajLENxYBHH6s5eYtno-23" value="Attempt Quizzes" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="160" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="siajLENxYBHH6s5eYtno-24" value="Submit Assignments" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="200" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="siajLENxYBHH6s5eYtno-25" value="Rate and Review Courses" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="240" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="siajLENxYBHH6s5eYtno-26" value="Ask Questions in Discussion Forums" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="290" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="siajLENxYBHH6s5eYtno-27" value="Instructor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="-290" y="440" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="siajLENxYBHH6s5eYtno-28" value="Upload New Courses" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-210" y="420" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="siajLENxYBHH6s5eYtno-29" value="Manage Course Content" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="480" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="siajLENxYBHH6s5eYtno-30" value="Respond to Student Questions" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-179" y="540" width="129" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="siajLENxYBHH6s5eYtno-31" value="View Course Enrollment Analytics" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-210" y="600" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="siajLENxYBHH6s5eYtno-32" value="Administrator" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="410" y="430" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="siajLENxYBHH6s5eYtno-33" value="Approve or Reject Courses" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="370" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="siajLENxYBHH6s5eYtno-34" value="Manage User Accounts" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="420" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="siajLENxYBHH6s5eYtno-35" value="Handle Complaints and Feedback" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="480" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="siajLENxYBHH6s5eYtno-36" value="Generate System wide Reports" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="530" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="siajLENxYBHH6s5eYtno-37" value="Payment" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="690" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="siajLENxYBHH6s5eYtno-38" value="Process Payments for&amp;nbsp;PayPal,&lt;br/&gt;VISA/MasterCard, or American Express" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="610" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="siajLENxYBHH6s5eYtno-39" value="Apply Promotional Discounts" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="700" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="siajLENxYBHH6s5eYtno-40" value="Upload New Courses" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="760" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="siajLENxYBHH6s5eYtno-41" value="Upload New Courses" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="820" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="siajLENxYBHH6s5eYtno-42" value="Attempt Quizzes" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="320" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="siajLENxYBHH6s5eYtno-43" value="Request Weekly Progress Reports" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="260" width="100" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
